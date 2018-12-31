@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Load3D:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Load3D_jar</output-path>
+    <root id="archive" name="Load3D.jar">
+      <element id="module-output" name="Load3D" />
+      <element id="extracted-dir" path="C:/Program Files/Java/Java3D/1.5.1/lib/ext/j3dcore.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/Java/Java3D/1.5.1/lib/ext/vecmath.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/Java/Java3D/1.5.1/lib/ext/j3dutils.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
